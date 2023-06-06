@@ -21,6 +21,11 @@
   text-decoration: none !important;
 }
 
+.link-button-text {
+  color: white !important;
+  text-decoration: none !important;
+}
+
 .text-container {
   width: 280px;
   padding: 20px 0;
